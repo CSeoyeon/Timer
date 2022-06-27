@@ -4,6 +4,7 @@ import java.awt.*;
 public class TimeFrame extends JFrame{
 
    public TimeFrame() {
+      
       this.setTitle("HUNTERxWATCH");
       this.setSize(380,270);
       this.setBackground(Color.white);
